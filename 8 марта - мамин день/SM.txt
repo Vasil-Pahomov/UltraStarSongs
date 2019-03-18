@@ -1,4 +1,4 @@
-#MP3:SM.MP3
+﻿#MP3:SM.MP3
 #TITLE:8 марта - мамин день (минус)
 #ARTIST:Мария Воинова
 #COVER:[CD].jpg

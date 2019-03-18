@@ -1,6 +1,6 @@
-#TITLE:Самый лучший день (минус)
+﻿#TITLE:Самый лучший день (минус)
 #ARTIST:Григорий Лепс
-#LANGUAGE:English
+#LANGUAGE:Russian
 #MP3:SM.mp3
 #BPM:170,04
 #BACKGROUND:[BG].jpg

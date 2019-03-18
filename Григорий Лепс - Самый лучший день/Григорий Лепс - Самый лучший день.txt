@@ -1,6 +1,6 @@
-#TITLE:Самый лучший день
+﻿#TITLE:Самый лучший день
 #ARTIST:Григорий Лепс
-#LANGUAGE:English
+#LANGUAGE:Russian
 #MP3:S.mp3
 #BPM:170,04
 #BACKGROUND:[BG].jpg

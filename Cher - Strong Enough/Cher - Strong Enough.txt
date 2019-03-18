@@ -1,4 +1,4 @@
-#TITLE:Strong Enough
+﻿#TITLE:Strong Enough
 #ARTIST:Cher
 #BPM:125
 #GAP:0

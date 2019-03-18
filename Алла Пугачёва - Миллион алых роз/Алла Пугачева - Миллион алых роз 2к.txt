@@ -1,4 +1,4 @@
-#TITLE:Миллион алых роз
+﻿#TITLE:Миллион алых роз
 #ARTIST:Алла Пугачева
 #LANGUAGE:Russian
 #BACKGROUND:roses.jpg
