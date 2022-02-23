@@ -4,7 +4,7 @@
 #COVER:[CD].jpg
 #BACKGROUND:[BG].jpg
 #BPM:204
-#GAP:0
+#GAP:-80
 #VIDEOGAP:0
 - 104
 : 113 2 12 Як 
